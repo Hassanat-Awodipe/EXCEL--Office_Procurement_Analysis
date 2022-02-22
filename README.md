@@ -8,6 +8,6 @@ This analysis of a small dataset was done using Microsoft Excel. The operations 
 *1.Data importation and transformation with Power Query*
 *2.Sorting*
 
--*Filtering*
--*Conditional Formatting*
--*Functions and Formulas*
+- *Filtering*
+- *Conditional Formatting*
+- *Functions and Formulas*
