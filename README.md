@@ -6,7 +6,9 @@ This analysis of a small dataset was done using Microsoft Excel. The operations 
 
 
 -*Data importation and transformation with Power Query*
+
 -*Sorting*
+
 -*Filtering*
 -*Conditional Formatting*
 -*Functions and Formulas*
